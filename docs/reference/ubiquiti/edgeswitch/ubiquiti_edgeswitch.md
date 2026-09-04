@@ -1,0 +1,1 @@
+::: ubiquiti.edgeswitch.ubiquiti_edgeswitch
